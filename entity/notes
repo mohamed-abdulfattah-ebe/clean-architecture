@@ -1,0 +1,5 @@
+entity doesn't depend on any package
+contain 
+- Entities encapsulate the most general and high-level business rules.
+They are the least likely to change when something external changes.
+- validation and custome errors
