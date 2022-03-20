@@ -1,0 +1,7 @@
+This layer is where all the details go. The Web is a detail. The database is a detail. We keep these things on the outside where they can do little harm.
+contains
+- Web
+- Devices
+- DB
+- UI
+- External Interfaces
